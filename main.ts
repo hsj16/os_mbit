@@ -407,8 +407,7 @@ namespace os_mbit_music {
  ****************************************************************************************************************************************/
 
 //% color="#0000CD" weight=21 icon="\uf185"
-
-mbit_电机类 {
+namespace os_mbit_servo {
 
     //% blockId=mbit_Fan block="Fan|pin %pin|speed %value"
     //% weight=100

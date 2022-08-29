@@ -1,10 +1,11 @@
 {
-    "name": "mbit",
-    "version": "1.0.0",
+    "name": "os_smart_drive",
+    "version": "1.0.1",
     "description": "Extension for OneService smart drive",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
     },
     "files": [
         "README.md",

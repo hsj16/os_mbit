@@ -20,15 +20,15 @@
   "os_mbit_servo.Fan|block": "风扇|引脚 %pin|速度 %value",
   "os_mbit_servo.Servo|block": "舵机|引脚 %pin|角度 %value",
 
-  "os_smart_drice.RGB_Car_Big|block": "小车RGB探照灯|红色 %value1|绿色 %value2|蓝色 %value3",
-  "os_smart_drice.RGB_Car_Big2|block": "小车RGB探照灯|选择车灯颜色 %value",
-  "os_smart_drice.Ultrasonic_Car|block": "超声波返回（cm）",
-  "os_smart_drice.RGB_Car_Program|block": "七彩流水灯",
-  "os_smart_drice.Music_Car|block": "小车音乐播放|%index",
-  "os_smart_drice.Line_Sensor|block": "巡线传感器|位置 %direct|检测到 %value",
-  "os_smart_drice.Avoid_Sensor|block": "避障传感器|检测到 %value",
-  "os_smart_drice.Servo_Car|block": "小车舵机|编号 %num|角度 %value",
-  "os_smart_drice.CarCtrl|block": "小车控制|%index",
-  "os_smart_drice.CarCtrlSpeed|block": "小车控制|%index|速度 %speed",
-  "os_smart_drice.CarCtrlSpeed2|block": "小车控制|%index|左电机速度 %speed1|右电机速度 %speed2"
+  "os_smart_drive.RGB_Car_Big|block": "小车RGB探照灯|红色 %value1|绿色 %value2|蓝色 %value3",
+  "os_smart_drive.RGB_Car_Big2|block": "小车RGB探照灯|选择车灯颜色 %value",
+  "os_smart_drive.Ultrasonic_Car|block": "超声波返回（cm）",
+  "os_smart_drive.RGB_Car_Program|block": "七彩流水灯",
+  "os_smart_drive.Music_Car|block": "小车音乐播放|%index",
+  "os_smart_drive.Line_Sensor|block": "巡线传感器|位置 %direct|检测到 %value",
+  "os_smart_drive.Avoid_Sensor|block": "避障传感器|检测到 %value",
+  "os_smart_drive.Servo_Car|block": "小车舵机|编号 %num|角度 %value",
+  "os_smart_drive.CarCtrl|block": "小车控制|%index",
+  "os_smart_drive.CarCtrlSpeed|block": "小车控制|%index|速度 %speed",
+  "os_smart_drive.CarCtrlSpeed2|block": "小车控制|%index|左电机速度 %speed1|右电机速度 %speed2"
 }
